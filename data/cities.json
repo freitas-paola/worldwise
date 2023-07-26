@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Sao Paulo",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2023-07-25T17:12:14.898Z",
+      "notes": "",
+      "position": {
+        "lat": "-23.567763408248055",
+        "lng": "-46.58924102783204"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Sao Jose dos Campos",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2023-07-25T17:15:02.145Z",
+      "notes": "",
+      "position": {
+        "lat": "-23.180763583129433",
+        "lng": "-45.87890625"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-25T18:03:21.837Z",
+      "notes": "",
+      "position": {
+        "lat": "48.85387273165656",
+        "lng": "2.39501953125"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Brussels",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2023-07-25T18:04:33.167Z",
+      "notes": "",
+      "position": {
+        "lat": "50.843670947425636",
+        "lng": "4.357452392578126"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Dubrovnik",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2023-07-25T18:05:33.950Z",
+      "notes": "",
+      "position": {
+        "lat": "42.65416193033991",
+        "lng": "18.12057495117188"
+      },
+      "id": 98443203
+    }
+  ]
+}
